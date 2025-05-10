@@ -1,6 +1,8 @@
-# .github
+<h1 align="center">@hypernym/github</h1>
 
-Default community health files for [@hypernym-studio](https://github.com/hypernym-studio) organization.
+<p align="center">Hypernym's community health files.</p>
+
+<br>
 
 ## License
 

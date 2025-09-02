@@ -1,6 +1,6 @@
-<h1 align="center">@hypernym/github</h1>
+<h1 align="center">.github</h1>
 
-<p align="center">Hypernym's community health files.</p>
+<p align="center">Community health files.</p>
 
 <br>
 
